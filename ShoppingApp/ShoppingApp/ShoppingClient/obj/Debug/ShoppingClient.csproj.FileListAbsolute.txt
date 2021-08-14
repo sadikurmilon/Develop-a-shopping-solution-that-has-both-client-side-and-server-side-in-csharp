@@ -1,0 +1,11 @@
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingClient\bin\Debug\ShoppingClient.exe.config
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingClient\bin\Debug\ShoppingClient.exe
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingClient\bin\Debug\ShoppingClient.pdb
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingClient\obj\Debug\ShoppingClient.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingClient\obj\Debug\ShoppingClient.LoginForm.resources
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingClient\obj\Debug\ShoppingClient.Properties.Resources.resources
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingClient\obj\Debug\ShoppingClient.csproj.GenerateResource.cache
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingClient\obj\Debug\ShoppingClient.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingClient\obj\Debug\ShoppingClient.exe
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingClient\obj\Debug\ShoppingClient.pdb
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingClient\obj\Debug\ShoppingClient.PurchaseForm.resources

@@ -1,0 +1,7 @@
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingApp\bin\Debug\ShoppingApp.exe.config
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingApp\bin\Debug\ShoppingApp.exe
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingApp\bin\Debug\ShoppingApp.pdb
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingApp\obj\Debug\ShoppingAppServer.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingApp\obj\Debug\ShoppingAppServer.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.exe
+C:\Users\Ryan\source\repos\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.pdb
